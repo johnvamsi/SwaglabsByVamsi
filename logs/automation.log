@@ -1,0 +1,464 @@
+16:43:13.685 [main] INFO  testCases.TC__002__LoginDDT - Setting Up The server
+16:43:13.740 [main] INFO  testCases.TC__002__LoginDDT - Server is Running
+16:43:26.451 [main] INFO  testCases.TC__002__LoginDDT - Device Configuration is Done
+16:44:23.096 [main] INFO  testCases.TC__002__LoginDDT - driver is closed
+16:44:23.101 [main] INFO  testCases.TC__002__LoginDDT - Server is Closed
+16:44:23.106 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+16:44:23.125 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+16:44:29.964 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+16:44:36.127 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+16:44:36.133 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+16:48:01.822 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+16:48:01.883 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+16:48:08.915 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+16:48:15.050 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+16:48:15.056 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+16:57:44.330 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+16:57:44.393 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+16:57:52.949 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+16:58:01.271 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+16:58:01.276 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:02:11.299 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:02:11.356 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:02:19.526 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:02:27.350 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:02:27.355 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:05:02.553 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:05:02.604 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:05:10.708 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:05:18.353 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:05:18.359 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:07:38.173 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:07:38.233 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:07:44.571 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:07:52.606 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:07:52.612 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:10:50.309 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:10:50.376 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:10:56.955 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:11:05.390 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:11:05.395 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:11:50.920 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:11:50.977 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:11:58.174 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:12:06.236 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:12:06.241 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:13:36.017 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:13:36.072 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:13:42.519 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:13:49.702 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:13:49.708 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:14:36.890 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:14:36.940 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:14:43.929 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:14:51.363 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:14:51.369 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:36:43.932 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:36:43.983 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:36:52.816 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:37:00.069 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:37:00.075 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:39:25.748 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:39:25.790 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:39:34.112 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:39:40.302 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:39:40.306 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:46:17.200 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:46:17.239 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:46:26.893 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:46:34.877 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:46:34.882 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:46:42.618 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:46:42.657 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:46:48.121 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:46:54.365 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:46:54.368 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:47:16.293 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:47:16.333 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:47:22.686 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:47:32.265 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:47:32.269 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:48:15.054 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:48:16.822 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:48:24.343 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:48:34.348 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:48:34.351 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:48:47.653 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:48:49.416 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:48:55.768 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:49:05.228 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:49:05.231 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:54:48.397 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:54:50.184 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:54:59.514 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:55:07.541 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:55:07.544 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:56:31.141 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:56:32.926 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:56:39.596 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:56:46.295 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:56:46.298 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:58:11.655 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:58:13.454 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:58:20.015 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:58:26.836 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:58:26.839 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+18:08:10.918 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+18:08:10.959 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+18:08:18.323 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+18:08:27.409 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+18:08:27.414 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+18:09:32.021 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+18:09:32.059 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+18:09:38.340 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+18:09:44.188 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+18:09:44.191 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+18:54:54.600 [main] INFO  testCases.PracticeTest - Setting Up The server
+18:54:54.658 [main] INFO  testCases.PracticeTest - Server is Running
+18:56:11.006 [main] INFO  testCases.PracticeTest - Setting Up The server
+18:57:20.183 [main] INFO  testCases.PracticeTest - Setting Up The server
+18:57:22.012 [main] INFO  testCases.PracticeTest - Server is Running
+18:57:30.722 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+18:57:31.085 [main] INFO  testCases.PracticeTest - driver is closed
+18:57:31.089 [main] INFO  testCases.PracticeTest - Server is Closed
+19:03:56.582 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:03:56.631 [main] INFO  testCases.PracticeTest - Server is Running
+19:04:03.849 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:04:11.639 [main] INFO  testCases.PracticeTest - driver is closed
+19:04:11.643 [main] INFO  testCases.PracticeTest - Server is Closed
+19:04:49.436 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:04:49.483 [main] INFO  testCases.PracticeTest - Server is Running
+19:04:56.148 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:05:05.215 [main] INFO  testCases.PracticeTest - driver is closed
+19:05:05.218 [main] INFO  testCases.PracticeTest - Server is Closed
+19:05:38.575 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:05:38.622 [main] INFO  testCases.PracticeTest - Server is Running
+19:05:44.095 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:05:57.147 [main] INFO  testCases.PracticeTest - driver is closed
+19:05:57.150 [main] INFO  testCases.PracticeTest - Server is Closed
+19:19:17.449 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:19:17.495 [main] INFO  testCases.PracticeTest - Server is Running
+19:19:25.787 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:20:08.251 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:20:08.288 [main] INFO  testCases.PracticeTest - Server is Running
+19:20:15.448 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:20:20.675 [main] INFO  testCases.PracticeTest - driver is closed
+19:20:20.678 [main] INFO  testCases.PracticeTest - Server is Closed
+19:37:31.228 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:37:31.265 [main] INFO  testCases.PracticeTest - Server is Running
+19:37:37.221 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:37:43.241 [main] INFO  testCases.PracticeTest - driver is closed
+19:37:43.245 [main] INFO  testCases.PracticeTest - Server is Closed
+19:38:10.537 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:38:10.576 [main] INFO  testCases.PracticeTest - Server is Running
+19:38:17.347 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:38:27.277 [main] INFO  testCases.PracticeTest - driver is closed
+19:38:27.280 [main] INFO  testCases.PracticeTest - Server is Closed
+19:42:05.999 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+19:42:06.036 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+19:42:12.255 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+19:42:21.296 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+19:42:21.300 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+19:44:34.131 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:44:34.170 [main] INFO  testCases.PracticeTest - Server is Running
+19:44:40.379 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:44:54.600 [main] INFO  testCases.PracticeTest - driver is closed
+19:44:54.603 [main] INFO  testCases.PracticeTest - Server is Closed
+19:45:00.616 [main] INFO  testCases.PracticeTest - Setting Up The server
+19:45:00.659 [main] INFO  testCases.PracticeTest - Server is Running
+19:45:06.967 [main] INFO  testCases.PracticeTest - Device Configuration is Done
+19:45:16.876 [main] INFO  testCases.PracticeTest - driver is closed
+19:45:16.880 [main] INFO  testCases.PracticeTest - Server is Closed
+19:48:10.276 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+19:48:10.317 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+19:48:16.204 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+19:48:25.749 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+19:48:25.753 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+19:49:43.540 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+19:49:43.580 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+19:49:49.449 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+19:49:58.660 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+19:49:58.664 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+19:57:33.612 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+19:57:33.652 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+19:57:41.814 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+19:58:01.012 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+19:58:01.016 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+20:01:04.616 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+20:01:04.656 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+20:01:11.977 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+20:01:31.459 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+20:01:31.462 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+20:07:14.533 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+20:07:14.573 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+20:07:22.736 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+20:07:42.249 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+20:07:42.252 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+20:10:50.112 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+20:10:50.151 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+20:10:55.730 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+20:11:04.807 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+20:11:04.812 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+20:12:56.377 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+20:12:56.419 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+20:13:02.145 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+20:13:11.230 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+20:13:11.234 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+20:19:24.150 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+20:19:24.187 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+20:19:31.699 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+20:19:51.756 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+20:19:51.759 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+11:07:27.913 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+11:07:30.401 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+11:07:41.902 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+11:08:01.917 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+11:08:01.921 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+11:40:31.036 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+11:40:32.807 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+11:40:39.862 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:34:48.443 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:34:51.850 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:35:01.739 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:35:06.886 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:35:06.888 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:35:06.891 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:35:08.657 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:35:13.625 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:35:34.548 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:35:34.551 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+17:37:07.571 [main] INFO  testCases.TC__002__LoginDDT - Setting Up The server
+17:37:09.402 [main] INFO  testCases.TC__002__LoginDDT - Server is Running
+17:37:15.045 [main] INFO  testCases.TC__002__LoginDDT - Device Configuration is Done
+17:38:08.281 [main] INFO  testCases.TC__002__LoginDDT - driver is closed
+17:38:08.285 [main] INFO  testCases.TC__002__LoginDDT - Server is Closed
+14:31:42.819 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+14:31:42.869 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+14:31:49.401 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+14:31:58.005 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+14:31:58.008 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+09:06:15.725 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:06:15.796 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:06:25.247 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:06:45.617 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:06:45.621 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:07:33.617 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:07:33.671 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:07:40.503 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:08:01.025 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:08:01.030 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:10:00.163 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:10:00.222 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:10:08.888 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:10:20.633 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:10:20.639 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:12:49.746 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:12:49.798 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:12:57.057 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:13:07.617 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:13:07.622 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:16:07.750 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:16:07.808 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:16:14.443 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:16:25.142 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:16:25.147 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:17:54.545 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:17:54.606 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:18:00.459 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:18:10.069 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:18:10.074 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:18:53.065 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:18:53.126 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:19:00.818 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:19:11.589 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:19:11.596 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:19:37.577 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:19:37.636 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:19:43.828 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:19:54.525 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:19:54.531 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:24:27.716 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:24:27.773 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:24:34.476 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:24:48.519 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:24:48.527 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:26:02.015 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:26:02.076 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:26:09.876 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:26:23.159 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:26:23.165 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+09:26:51.273 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+09:26:51.327 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+09:26:58.855 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+09:27:12.310 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+09:27:12.316 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+13:13:10.385 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+13:13:10.436 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+13:13:17.756 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+13:13:33.931 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+13:13:33.935 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+13:14:06.101 [main] INFO  testCases.TC__004__RemoveProductFromCart - Setting Up The server
+13:14:06.140 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Running
+13:14:11.522 [main] INFO  testCases.TC__004__RemoveProductFromCart - Device Configuration is Done
+13:14:28.035 [main] INFO  testCases.TC__004__RemoveProductFromCart - driver is closed
+13:14:28.038 [main] INFO  testCases.TC__004__RemoveProductFromCart - Server is Closed
+12:01:03.577 [main] INFO  testCases.TC__002__LoginDDT - Setting Up The server
+12:01:05.355 [main] INFO  testCases.TC__002__LoginDDT - Server is Running
+12:01:12.009 [main] INFO  testCases.TC__002__LoginDDT - Device Configuration is Done
+12:02:08.270 [main] INFO  testCases.TC__002__LoginDDT - driver is closed
+12:02:08.273 [main] INFO  testCases.TC__002__LoginDDT - Server is Closed
+12:04:16.205 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+12:04:17.979 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+12:04:23.880 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+12:04:29.138 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+12:04:29.142 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+12:04:29.145 [main] INFO  testCases.TC__002__LoginDDT - Setting Up The server
+12:04:30.881 [main] INFO  testCases.TC__002__LoginDDT - Server is Running
+12:04:35.989 [main] INFO  testCases.TC__002__LoginDDT - Device Configuration is Done
+12:05:32.004 [main] INFO  testCases.TC__002__LoginDDT - driver is closed
+12:05:32.007 [main] INFO  testCases.TC__002__LoginDDT - Server is Closed
+12:05:32.007 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+12:05:33.760 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+12:05:40.387 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+12:05:49.568 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+12:05:49.572 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+15:50:18.131 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+15:50:20.900 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+15:50:30.009 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+15:50:35.197 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+15:50:35.201 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+15:50:35.205 [main] INFO  testCases.TC__002__LoginDDT - Setting Up The server
+15:50:37.323 [main] INFO  testCases.TC__002__LoginDDT - Server is Running
+15:50:46.071 [main] INFO  testCases.TC__002__LoginDDT - Device Configuration is Done
+15:51:38.299 [main] INFO  testCases.TC__002__LoginDDT - driver is closed
+15:51:38.303 [main] INFO  testCases.TC__002__LoginDDT - Server is Closed
+15:51:38.304 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+15:51:40.365 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+15:51:47.462 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+15:51:56.755 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+15:51:56.759 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+15:55:31.410 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+15:55:31.413 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+15:55:31.861 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+15:55:31.861 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+15:56:11.841 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+15:56:11.846 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+15:56:12.253 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+15:56:12.253 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:49:26.924 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:49:26.927 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:49:27.353 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:49:27.353 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:54:09.323 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:54:09.325 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:54:09.637 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:54:09.637 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:54:26.728 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:54:26.730 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:54:27.032 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:54:27.032 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:56:04.066 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+17:56:06.537 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+17:56:14.400 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+17:56:19.060 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+17:56:19.063 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+17:56:19.065 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+17:56:20.779 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+17:56:26.557 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+17:56:34.976 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+17:56:34.978 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+08:54:04.189 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+08:54:06.631 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+08:54:07.346 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+08:54:07.359 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+08:54:41.715 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+08:55:01.987 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+08:55:04.681 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+08:55:28.841 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+08:55:38.753 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+08:55:38.756 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+08:56:20.910 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+08:56:23.339 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+08:56:33.271 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+08:56:38.779 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+08:56:38.783 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+08:56:38.786 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+08:56:41.206 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+08:56:49.144 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+08:56:59.333 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+08:56:59.336 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+15:59:28.152 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+15:59:28.206 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+15:59:34.557 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+15:59:34.566 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+16:00:05.590 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+16:00:10.038 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+16:00:15.259 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+16:00:15.268 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+16:00:36.424 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+16:00:56.606 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+16:00:58.341 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+16:02:25.035 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+16:02:26.843 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+16:03:56.248 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+16:03:57.745 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+13:33:49.818 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+13:33:51.613 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+13:34:43.538 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+13:34:45.023 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+13:34:55.138 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+13:35:00.292 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+13:35:00.294 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+13:35:00.296 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+13:35:01.713 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+13:35:09.367 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+13:35:21.460 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+13:35:21.462 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+13:36:30.487 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+13:36:31.910 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+13:36:36.767 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+13:36:48.692 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+13:36:48.695 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+13:36:48.697 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+13:36:50.125 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+13:36:55.191 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+13:37:04.021 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+13:37:04.023 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+13:37:14.863 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+13:37:16.333 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+13:37:22.850 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+13:37:43.973 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+13:37:43.975 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+13:37:43.977 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+13:37:45.354 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+13:37:51.510 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+13:38:46.573 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+13:38:48.053 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+13:38:58.679 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+13:39:08.548 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+13:39:08.550 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+13:39:08.552 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+13:39:09.936 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+13:39:15.692 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+13:39:25.356 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+13:39:25.358 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed
+14:41:08.927 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+14:41:12.208 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+14:42:30.044 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+14:42:31.540 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+14:42:36.839 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+14:42:48.464 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+14:42:48.465 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+14:42:48.469 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+14:42:49.874 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+14:42:55.946 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+14:43:31.604 [main] INFO  testCases.TC__001__LoginTest - Setting Up The server
+14:43:33.030 [main] INFO  testCases.TC__001__LoginTest - Server is Running
+14:43:41.799 [main] INFO  testCases.TC__001__LoginTest - Device Configuration is Done
+14:43:49.806 [main] INFO  testCases.TC__001__LoginTest - driver is closed
+14:43:49.810 [main] INFO  testCases.TC__001__LoginTest - Server is Closed
+14:43:49.810 [main] INFO  testCases.TC__003__AddProductToCart - Setting Up The server
+14:43:51.228 [main] INFO  testCases.TC__003__AddProductToCart - Server is Running
+14:43:56.321 [main] INFO  testCases.TC__003__AddProductToCart - Device Configuration is Done
+14:44:05.181 [main] INFO  testCases.TC__003__AddProductToCart - driver is closed
+14:44:05.181 [main] INFO  testCases.TC__003__AddProductToCart - Server is Closed

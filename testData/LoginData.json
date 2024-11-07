@@ -1,0 +1,29 @@
+[
+	{
+		"username":"standard_user",
+		"password":"Test@1234",
+		"status":"Invalid"
+	},
+	{
+		"username":"standard_user",
+		"password":"secret_sauce",
+		"status":"Valid"
+	},
+	{
+		"username":"vamsiTesting",
+		"password":"secret_sauce",
+		"status":"Invalid"
+	},
+	{
+		"username":"",
+		"password":"",
+		"status":"Invalid"
+	},
+	{
+		"username":"standard_user",
+		"password":"secret_sauce",
+		"status":"Valid"
+	}
+		
+	
+]

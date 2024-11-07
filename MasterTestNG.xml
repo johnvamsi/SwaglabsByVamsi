@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+						<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+
+  
+  <test thread-count="5" name="Test">
+	<groups>
+		    <run>
+    			<include name="sanity"/>
+       			<!--<exclude name="regression"/>-->
+		    </run>
+	  </groups>
+   <classes>
+    <!--  <class name="testCases.TC__002__LoginDDT"/>-->
+			<class name="testCases.TC__001__LoginTest" />
+			<!--<class name="testCases.TC__002__LoginDDT" />-->
+			<class name="testCases.TC__003__AddProductToCart" />
+    </classes>
+  </test> 
+</suite> 
